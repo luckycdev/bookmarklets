@@ -1,0 +1,1 @@
+javascript:var a="https://gogoanime.be/search/?keyword="; var b=prompt("What anime would you like to watch today?", "Naruto"); if(b===""){alert("invalid response");}else if(b===" "){alert("invalid response");}else if(b!=null) {open(a+encodeURI(b));}
