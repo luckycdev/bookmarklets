@@ -1,0 +1,1 @@
+javascript:var a="https://www.google.com/search?q=";var b=prompt("What would you like to search in images for?", "pewdiepie");var c="&tbm=vid";if(b===""){alert("invalid response");}else if(b===" "){alert("invalid response");}else if(b!=null){open(a+b+c);}
