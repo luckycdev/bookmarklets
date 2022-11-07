@@ -1,0 +1,1 @@
+javascript:var a="https://tineye.com/search?url=";var b=location.href;var c=confirm("Are you sure you would like to reverse image search this?\nMake sure the url ends in a image file such as .png .jpg .gif etc.\nTo get this right click on the image and press Open image in new tab");if(c!=false){open(a+b);}
