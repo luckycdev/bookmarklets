@@ -1,0 +1,1 @@
+javascript:var a="https://open.spotify.com/search/";var b=prompt("what song would you like to search for on Spotify?","Juice WRLD");if(b===""){alert("invalid response");}else if(b===" "){alert("invalid response");}else if(b!=null){open(a+encodeURI(b));}
