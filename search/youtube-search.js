@@ -1,0 +1,1 @@
+javascript:var a="https://www.youtube.com/results?search_query="; var b=prompt("What would you like to search on youtube?", "MrBeast"); if(b===""){alert("invalid response");}else if (b===" "){alert("invalid response");}else if(b!=null) {open(a+b);}
