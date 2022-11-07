@@ -1,0 +1,1 @@
+javascript:var a="https://duckduckgo.com/?q="; var b=prompt("What would you like to search on duckduckgo?", "Search"); if(b===""){alert("invalid response");}else if (b===" "){alert("invalid response");}else if (b!=null){open(a+encodeURI(b));}
