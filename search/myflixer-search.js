@@ -1,0 +1,1 @@
+javascript:var a="https://myflixer.pw/search/";var b=prompt("What show/movie would you like to watch today?", "Lucifer");if (b===""){alert("invalid response");}else if (b===" "){alert("invalid response");} else if(b!=null){open(a+b);}
