@@ -1,0 +1,1 @@
+javascript:var a="https://nitter.net";if(location.hostname==="www.twitter.com"){location.assign(a+location.pathname+location.search);}else{alert("not on twitter");}/*more instances at https://codeberg.org/teddit/teddit#instances*/

@@ -1,0 +1,1 @@
+javascript:var a="https://libreddit.spike.codes";if(location.hostname==="www.reddit.com"){location.assign(a+location.pathname+location.search);}else{alert("not on reddit");}/*more instances at https://github.com/libreddit/libreddit-instances/blob/master/instances.md*/
