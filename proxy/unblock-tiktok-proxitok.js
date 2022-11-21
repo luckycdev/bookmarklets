@@ -1,0 +1,1 @@
+javascript:var a="https://tt.vern.cc";if(location.hostname==="www.tiktok.com"){location.assign(a+location.pathname+location.search);}else{alert("not on tiktok");}/*more instances at https://github.com/pablouser1/ProxiTok/wiki/Public-instances*/
