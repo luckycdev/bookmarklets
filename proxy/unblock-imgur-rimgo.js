@@ -1,0 +1,1 @@
+javascript:var a="https://rimgo.bcow.xyz";if(location.hostname==="imgur.com"){location.assign(a+location.pathname+location.search);}else if(location.hostname==="i.imgur.com"){location.assign(a+location.pathname+location.search);}else{alert("not on google");}/* more instances at https://codeberg.org/video-prize-ranch/rimgo#user-content-instances */
