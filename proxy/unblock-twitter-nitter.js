@@ -1,1 +1,1 @@
-javascript:var a="https://nitter.net";if(location.hostname==="twitter.com"){location.assign(a+location.pathname+location.search);}else{alert("not on twitter");}/*more instances at https://github.com/zedeus/nitter/wiki/Instances*/
+javascript:var a="https://nitter.net";if(location.hostname==="twitter.com"){location.assign(a+location.pathname+location.search);}else{alert("not on twitter");}/* more instances at https://github.com/zedeus/nitter/wiki/Instances */
