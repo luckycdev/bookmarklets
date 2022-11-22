@@ -1,0 +1,1 @@
+javascript:var a="https://search.albony.xyz";if(location.hostname==="www.google.com"){location.assign(a+location.pathname+location.search);}else{alert("not on google");}/* more instances at https://github.com/benbusby/whoogle-search#public-instances */
