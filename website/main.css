@@ -1,0 +1,103 @@
+/*hi bro*/
+html {
+    background: linear-gradient(to bottom right, rgb(245, 195, 129), rgb(169, 126, 238)) no-repeat center
+    center fixed;
+}
+
+body {
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+  }
+
+  h1 {
+    display: block;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(0, 0, 0);
+  }
+  p {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    color: rgb(0, 0, 0);
+  }
+  .button {
+    pointer-events: auto;
+    cursor: pointer;
+    background: #e7e7e7;
+    border: none;
+    padding: 1.5rem 3rem;
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    position: relative;
+    display: inline-block;
+    align-items: center;
+    top: 6vh;
+}
+.button::before,
+.button::after {
+  width: 100%;
+  height: 100%;
+}
+.button--pandora {
+  background: #000;
+  font-weight: 700;
+  padding: 0;
+  border-radius: 5px;
+}
+
+.button--pandora span {
+  display: block;
+  background: #a7a7a7;
+  padding: 1rem 1rem;
+  border: 1px solid #000;
+  border-radius: 5px;
+  transform: translate3d(-4px, -4px, 0);
+  transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+}
+
+.button--pandora:hover span {
+  transform: translate3d(-8px, -8px, 0);
+}
+
+/*about button only*/
+.aboutbutton {
+  pointer-events: auto;
+  cursor: pointer;
+  background: #e7e7e7;
+  border: none;
+  padding: 1.5rem 3rem;
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  top: 6vh;
+}
+.aboutbutton::before,
+.aboutbutton::after {
+width: 100%;
+height: 100%;
+}
+.aboutbutton--pandora {
+background: #000;
+font-weight: 700;
+padding: 0;
+border-radius: 5px;
+}
+
+.aboutbutton--pandora span {
+display: block;
+background: #d8d643;
+padding: 1rem 1rem;
+border: 1px solid #000;
+border-radius: 5px;
+transform: translate3d(-4px, -4px, 0);
+transition: transform 0.3s cubic-bezier(0.7, 0, 0.2, 1);
+}
+
+.aboutbutton--pandora:hover span {
+transform: translate3d(-8px, -8px, 0);
+}
