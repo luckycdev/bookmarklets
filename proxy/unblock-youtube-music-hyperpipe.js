@@ -1,1 +1,1 @@
-javascript:function yt2hyperpipe() {var a="hyperpipe.surge.sh/";var b="listen?id=";var c=a+b+location.search.split("v=")[1];location.assign(c);}if(location.hostname==="music.youtube.com"){yt2hyperpipe();}else{alert("not on youtube music");}/* more instances at https://hyperpipe.codeberg.page/ */
+javascript:var a="https://hyperpipe.surge.sh";if(location.hostname==="music.youtube.com"){location.assign(a+location.pathname+location.search);}else{alert("not on youtube music");}/* more instances at https://hyperpipe.codeberg.page/ */
