@@ -1,0 +1,1 @@
+javascript:function unblockYoutubeWithTime(){var a="https://www.youtube-nocookie.com/";var b="embed/";var c=location.search.split("v=")[1].split("&")[0];var d="?start=";var e=parseInt(document.getElementById("movie_player").getCurrentTime());location.assign(a+b+c+d+e);}if(location.hostname==="www.youtube.com"){unblockYoutubeWithTime();}else{alert("not on youtube");}

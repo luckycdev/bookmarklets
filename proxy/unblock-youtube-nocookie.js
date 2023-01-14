@@ -1,0 +1,1 @@
+javascript:var a="https://www.youtube-nocookie.com";var b=location.search.split("v=")[1].split("&")[0];if(location.hostname==="www.youtube.com"){location.assign(a+"/embed/"+b);}else{alert("not on youtube");}
