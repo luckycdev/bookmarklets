@@ -1,1 +1,1 @@
-javascript:var a="https://returnyoutubedislikeapi.com/votes?videoId=";var b=location.search.split("v=")[1].split("&")[0];if(location.hostname==="www.youtube.com"){open(a+b);}else if(location.hostname==="youtu.be"){open(a+b);}else if(location.hostname==="www.youtube-nocookie.com"){open(a+b);}
+javascript:var a="https://returnyoutubedislikeapi.com/votes?videoId=";var b=location.search.split("v=")[1].split("&")[0];fetch(a+b).then(response => response.json()).then(data => alert(data.dislikes+" dislikes")).catch(error => console.error(error));
