@@ -1,0 +1,1 @@
+javascript:function saveYoutubeTime(){var a="https://youtube.com/watch?v=";var b=location.search.split("v=")[1].split("&")[0];var c="&t=";var d=parseInt(document.getElementById("movie_player").getCurrentTime());location.assign(a+b+c+d);}if(location.hostname==="www.youtube.com"){saveYoutubeTime();}else{alert("not on youtube");}
