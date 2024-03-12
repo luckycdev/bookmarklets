@@ -1,5 +1,5 @@
 # bookmarklets
-moved all my bookmarklets from my gists to here so i can edit them on gitpod on browser
+moved all my bookmarklets from my gists to here
 ---
 bookmarklets have been disabled for newer chrome versions i think :-(
 
