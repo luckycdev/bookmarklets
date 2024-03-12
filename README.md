@@ -21,7 +21,8 @@ Scroll down and enable advanced settings, then paste your link in userResourcesL
 ## Step 4
 Go to the "My filters" tab at the top, and type the url you want the javascript to run on, then ##+js(NAME_OF_SCRIPT.js)<br>
 If you want the javascript to run on every page, then put `*` instead of the website name.<br>
-examples: `youtube.com##+js(calculator.js)` `*##+js(test.js)`
+examples:<br> `youtube.com##+js(calculator.js)`<br> `*##+js(test.js)`<br>
+For every script just make a new line.
 <img src="https://i.luckyc.site/brave_NphhqZzCWy.gif">
 <br>
 ## Finished
