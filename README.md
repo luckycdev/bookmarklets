@@ -9,7 +9,7 @@ if your school lets you use <a href="https://chromewebstore.google.com/detail/ub
 Create a <a href="https://pastebin.com" target="_blank">pastebin</a> of javascript you want, starting each one with `/// Name.js` -- IMPORTANT: make sure you have the space between the /// and the name!<br>
 Then copy the raw link
 <img src="https://i.luckyc.site/brave_BfGDGKOT66.gif">
-
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 ## uBlock Origin Guide Step 2
 Click on the extension and find the settings button
 <img src="https://i.luckyc.site/1dNfcZEQvv.png">
