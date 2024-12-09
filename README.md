@@ -24,7 +24,7 @@ Then copy the raw link
 
 <br>
 
-<a href="https://i.luckyc.site/brave_BfGDGKOT66.gif" target="_blank"><img src="https://i.luckyc.site/brave_BfGDGKOT66.gif"></a>
+<a href="https://i.luckyc.dev/brave_BfGDGKOT66.gif" target="_blank"><img src="https://i.luckyc.dev/brave_BfGDGKOT66.gif"></a>
 
 <br>
 
@@ -36,7 +36,7 @@ Click on the extension and find the settings button
 
 <br>
 
-<a href="https://i.luckyc.site/1dNfcZEQvv.png" target="_blank"><img src="https://i.luckyc.site/1dNfcZEQvv.png"></a>
+<a href="https://i.luckyc.dev/1dNfcZEQvv.png" target="_blank"><img src="https://i.luckyc.dev/1dNfcZEQvv.png"></a>
 
 <br>
 
@@ -48,7 +48,7 @@ Scroll down and enable advanced settings, then paste your link in userResourcesL
 
 <br>
 
-<a href="https://i.luckyc.site/brave_LMdWLhE2Dd.gif" target="_blank"><img src="https://i.luckyc.site/brave_LMdWLhE2Dd.gif"></a>
+<a href="https://i.luckyc.dev/brave_LMdWLhE2Dd.gif" target="_blank"><img src="https://i.luckyc.dev/brave_LMdWLhE2Dd.gif"></a>
 
 <br>
 
@@ -72,7 +72,7 @@ For every script just make a new line.
 
 <br>
 
-<a href="https://i.luckyc.site/brave_TbWQQFJYOm.gif" target="_blank"><img src="https://i.luckyc.site/brave_TbWQQFJYOm.gif"></a>
+<a href="https://i.luckyc.dev/brave_TbWQQFJYOm.gif" target="_blank"><img src="https://i.luckyc.dev/brave_TbWQQFJYOm.gif"></a>
 
 <br>
 
@@ -84,4 +84,4 @@ you are now done and good to go on the site and it will run. every time you add 
 
 <br>
 
-<a href="https://i.luckyc.site/brave_Dg19AavxoP.gif" target="_blank"><img src="https://i.luckyc.site/brave_Dg19AavxoP.gif"></a>
+<a href="https://i.luckyc.dev/brave_Dg19AavxoP.gif" target="_blank"><img src="https://i.luckyc.dev/brave_Dg19AavxoP.gif"></a>
